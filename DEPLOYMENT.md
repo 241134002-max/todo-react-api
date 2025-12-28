@@ -7,8 +7,8 @@ https://todo-react-api.vercel.app
 Vercel
 
 ## Screenshot
-- Desktop: ![screenshoot desktop ] (desktop.png)
-- Mobile: ![screenshoot mobile]  (mobile.png)
+- Desktop: ![screenshoot desktop ](desktop.png)
+- Mobile: ![screenshoot mobile](mobile.png)
 
 ## Penjelasan
 Saya melakukan deployment menggunakan Vercel karena prosesnya cepat, gratis, dan terintegrasi langsung dengan GitHub sehingga memudahkan pengelolaan aplikasi React.
